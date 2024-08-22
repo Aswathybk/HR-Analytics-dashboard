@@ -1,1 +1,1 @@
-# HR-Analytics-dashboard
+This project involves the creation of an HR dashboard using Power BI to analyze and visualize key employee metrics. The dashboard provides an overview of the workforce, including counts by age, gender, date of joining, job roles, and salary distribution. By consolidating this data into interactive visualizations, the dashboard enables HR professionals to quickly identify trends, monitor workforce composition, and make data-driven decisions to support talent management and organizational planning.
